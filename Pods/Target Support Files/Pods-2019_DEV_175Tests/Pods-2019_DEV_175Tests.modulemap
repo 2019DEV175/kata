@@ -1,0 +1,6 @@
+framework module Pods_2019_DEV_175Tests {
+  umbrella header "Pods-2019_DEV_175Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

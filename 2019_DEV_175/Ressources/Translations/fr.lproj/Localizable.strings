@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+*/
+
+"win" = "Vous avez gagné, bien joué à";
+"draw" = " Match nuuul";
+"cross" = "Croix";
+"circle" = "Cercle";

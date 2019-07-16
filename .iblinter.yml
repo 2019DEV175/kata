@@ -1,0 +1,13 @@
+enabled_rules:
+  - relative_to_margin
+  - misplaced
+  - enable_autolayout
+  - image_resources
+disabled_rules:
+  - duplicate_constraint #false positive
+  - custom_class_name
+  - custom_module
+  - storyboard_viewcontroller_id
+  - ambiguous
+excluded:
+  - Pods

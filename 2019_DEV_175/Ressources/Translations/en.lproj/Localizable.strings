@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+*/
+
+"win" = "You win :) !";
+"draw" = " Draaaaaw";
+"cross" = "cross";
+"circle" = "circle";
