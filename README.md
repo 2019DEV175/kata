@@ -4,7 +4,8 @@ This repository contains the project Kata tic tac toe based on the MVVM architec
 
 # Usage
 * [ ] install CocoaPods (https://cocoapods.org)
-* [ ] Open 2019_DEV_175.xcworkspace with XCode 10.2.1
+* [ ] Open `2019_DEV_175.xcworkspace` with XCode `10.2.1`
+* [ ] Edit the team and the bundle identifier to run on a device or set the team to none.
 * [ ] CMD+U to run Unit Tests
 
 # Architecture
